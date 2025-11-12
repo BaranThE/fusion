@@ -1,0 +1,3 @@
+TOKEN =   "SENİN TOKENİN"
+SECRET_KEY = ""
+API_KEY = ""
